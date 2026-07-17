@@ -1,0 +1,10 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+.env.local
+*.db
+node_modules/
+.next/
+prisma/dev.db
+logs.txt
+EOF
